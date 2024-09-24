@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdad89e1-fa72-447c-b6db-35bd67c9d67e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Konsep-OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/AccessModifierA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/AccessModifierB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/Address.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/DataClassA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/DataClassB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/DataClassC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/DataClassD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/Enkapsulasi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/EnkapsulasiA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/EnkapsulasiB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/Greeter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/GreeterTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceG.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InheritanceH.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InitOrder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InterfaceA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InterfaceB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InterfaceC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/InterfaceD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/NestedInnerClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/NestedInnerClassA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/NestedInnerClassB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PersonA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PersonB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PersonC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PersonD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PersonE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PersonF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PolymorphismA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/PolymorphismB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/mairoh/test_kelas/VisibilityA.kt" afterDir="false" />
+    <list default="true" id="bdad89e1-fa72-447c-b6db-35bd67c9d67e" name="Changes" comment="konsep-oop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,44 +28,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.DataClassFKt">
-    <configuration name="DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.DataClassBKt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.InheritanceFKt">
+    <configuration name="InheritanceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.InheritanceBKt" />
       <module name="Konsep-OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.DataClassCKt" />
+    <configuration name="InheritanceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.InheritanceCKt" />
       <module name="Konsep-OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.DataClassDKt" />
+    <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.InheritanceDKt" />
       <module name="Konsep-OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.DataClassEKt" />
+    <configuration name="InheritanceEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.InheritanceEKt" />
       <module name="Konsep-OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.DataClassFKt" />
+    <configuration name="InheritanceFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.mairoh.test_kelas.InheritanceFKt" />
       <module name="Konsep-OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DataClassFKt" />
-        <item itemvalue="Kotlin.DataClassEKt" />
-        <item itemvalue="Kotlin.DataClassDKt" />
-        <item itemvalue="Kotlin.DataClassCKt" />
-        <item itemvalue="Kotlin.DataClassBKt" />
+        <item itemvalue="Kotlin.InheritanceFKt" />
+        <item itemvalue="Kotlin.InheritanceEKt" />
+        <item itemvalue="Kotlin.InheritanceDKt" />
+        <item itemvalue="Kotlin.InheritanceCKt" />
+        <item itemvalue="Kotlin.InheritanceBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1726536170100</updated>
     </task>
+    <task id="LOCAL-00001" summary="konsep-oop">
+      <created>1726548499089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726548499089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="konsep-oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="konsep-oop" />
   </component>
 </project>
